@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mazda 2",
+        "image1": "img/mazda2-1.jpg",
+        "image2": "img/mazda2-2.jpg",
+        "description": "Full equipo, top de gama",
+        "model": "Mazda 2",
+        "brand": "Mazda",
+        "year": "2023",
+        "status": "Excelente",
+        "fuel": "Gasolina",
+        "mileage": "15,000",
+        "transmission": "Mecanico",
+        "motor": "1400",
+        "price": "S/. 45,000 "
+    },
+    {
+        "name": "Toyota Etios",
+        "image1": "img/toyota-etios-1.jpg",
+        "image2": "img/toyota-etios-2.jpg",
+        "description": "6 velocidades",
+        "model": "Etios",
+        "brand": "Toyota",
+        "year": "2023",
+        "status": "Excelente",
+        "fuel": "GLP",
+        "mileage": "600",
+        "transmission": "Mecanico",
+        "motor": "1500",
+        "price": "S/. 45,000 "
+    }
+]
