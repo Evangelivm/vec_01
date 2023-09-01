@@ -12,9 +12,9 @@ function createVehicleCard(vehicle, container) {
                 <img class="second" src="${vehicle.image2}" alt="Vehicle Image 2" />
             </div>
             <div class="info">
-                <h3>${vehicle.name}</h3>
+                <h3>${vehicle.brand}</h3>
+                <p class= "model">${vehicle.model}</p>
                 <div class="stars" data-stars="1">
-                    <!-- Agrega tus estrellas aquí -->
                 </div>
                 <div class="price">
                     <span>Precio Negociable</span>
